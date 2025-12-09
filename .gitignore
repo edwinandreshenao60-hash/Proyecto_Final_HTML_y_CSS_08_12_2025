@@ -1,0 +1,6 @@
+# Ignorar carpetas no deseadas
+Project Ins/
+
+# Ignorar archivos comunes de VS Code y macOS
+.vscode/
+.DS_Store
